@@ -1,3 +1,3 @@
 # unity_ddpg_continuous_control
 
-![Alt Text](https://github.com/{user}/{repo}/raw/master/demo.gif)
+![Alt Text](https://github.com/jasonkut/unity_ddpg_continuous_control/raw/master/demo.gif)
